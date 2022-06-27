@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Stranger1894
+- 👋 Hi, I’m @Sourav Bal
 - 👀 I’m interested in data analytics and data science.
 - 🌱 I’m currently learning Python.
 
